@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
-  "homepage":"https://jkolze1.github.io/React-Reading-App/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
