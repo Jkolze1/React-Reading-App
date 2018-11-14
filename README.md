@@ -3,4 +3,3 @@
 Reading App that allows users to add books to a list. This App uses React for front end and Mlab to store data.
 <br>
 ![Home](/img/pic.png 'Screenshot')
-![alt text](https://raw.githubusercontent.com/jkolze1/React-Reading-App/Master/img/pic.png)
