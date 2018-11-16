@@ -2,7 +2,6 @@
   "name": "mern",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://jkolze1.github.io/React-Reading-App/",
   "main": "server.js",
   "scripts": {
     "predeploy": "npm run build",
@@ -20,15 +19,13 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^3.5.0",
-    "nodemon": "^1.11.0",
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
     "axios": "^0.16.2",
     "body-parser": "^1.17.2",
     "express": "^4.15.4",
     "mongoose": "^5.0.17",
-    "if-env": "^1.0.4",
-    "enzyme": "^2.7.0",
-    "gh-pages": "^0.12.0",
-    "react-addons-test-utils": "^15.4.2",
-    "react-scripts": "1.0.17"
+    "if-env": "^1.0.4"
   }
 }
